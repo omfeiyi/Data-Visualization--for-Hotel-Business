@@ -1,2 +1,2 @@
-# Data-Visualization--for-Hotel-Business
+# Data-Visualization-for-Hotel-Business
 Investigate hotel business using data visualization
